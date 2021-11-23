@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+    color: orange;
+    width: 800px;
+    height: 800px;
+}
+.botão {
+    color: orange;
+    margin: 10px;
+    background-color: #03045e;
+    width: 400px;
+    height: 50px;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 50px;
+    padding-inline: 10px;
+}
+#name {
+    color: orange;
+    margin: 10px;
+    background-color: #03045e;
+    width: 800px;
+    height: 200px;
+    border-radius: 20px;
+    font-size: 25px;
+    text-align: center;
+    line-height: 50px;
+    padding-inline: 10px;
+}
+#eu{
+    display: inline-flex;
+    align-items: center;
+    background-color: #03045e;
+    height: 400px;
+    text-align: center;
+} 
+#ft {
+    border-radius: 50%;
+  
+}
